@@ -1,2 +1,2 @@
-# github-pages-demo
-Demo to host website using GitHub Pages for GESCOE students
+# github-pages
+Demo Project for session on hosting website using GitHub Pages for GESCOE students
